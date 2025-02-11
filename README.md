@@ -10,7 +10,6 @@ Aspiring Data Scientist with a passion for turning raw data into actionable insi
 - **Data Visualization:** Power BI, Tableau, Matplotlib
 - **Databases:** MySQL, PostgreSQL
 - **Other:** Git, Jupyter Notebook
-## ⚡ Fun fact: ...
 
 <!---
 DataNinjaBrain/DataNinjaBrain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
